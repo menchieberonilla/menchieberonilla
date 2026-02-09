@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**menchieberonilla/menchieberonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋🏻‍♀️ Introducing Myself
+Hello! I am Menchie. Lead Data Analyst with expertise in Data Analysis and reporting, data modelling and visualization, database design, and data engineering.
+### 📚 Projects
+Welcome to my portfolio, where I showcase my [projects]
+### 🛠️ Tools
+- Language: Python, SQL, R
+- Visualization: MS PowerBI, Tableau, Looker Studio
+- Database: Google BigQuery, PostgreSQL, MySQL, Snowflake
+- Automation : MS Power Automate, MS Excel VBA, MS Power App
+- Process Improvement (Methodologies) : PDCA, DMAIC
+### 👋🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/menchiebrnll/)
