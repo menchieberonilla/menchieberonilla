@@ -1,5 +1,5 @@
 ## 🙋🏻‍♀️ Introducing Myself
-Hello! I am Menchie. Lead Data Analyst with expertise in Data Analysis and reporting, data modelling and visualization, database design, and data engineering.
+Hello! I am Menchie. Lead Data Analyst with expertise in Data analysis and reporting, data modelling, data visualization, database design, and data engineering.
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects]
 ### 🛠️ Tools
