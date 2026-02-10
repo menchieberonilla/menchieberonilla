@@ -3,7 +3,7 @@ Hello! I am Menchie. Lead Data Analyst with expertise in Data analysis and repor
 ### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects]
 ### 🛠️ Tools
-- Language: Python, SQL, R
+- Language: Python, SQL
 - Visualization: MS PowerBI, Tableau, Looker Studio
 - Database: Google BigQuery, PostgreSQL, MySQL, MS Access, Snowflake
 - Automation : MS Power Automate, MS Excel VBA, MS Power App
