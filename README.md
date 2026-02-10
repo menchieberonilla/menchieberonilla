@@ -5,7 +5,7 @@ Welcome to my portfolio, where I showcase my [projects]
 ### 🛠️ Tools
 - Language: Python, SQL, R
 - Visualization: MS PowerBI, Tableau, Looker Studio
-- Database: Google BigQuery, PostgreSQL, MySQL, Snowflake
+- Database: Google BigQuery, PostgreSQL, MySQL, MS Access, Snowflake
 - Automation : MS Power Automate, MS Excel VBA, MS Power App
 - Process Improvement (Methodologies) : PDCA, DMAIC
 ### 👋🏻 Connect with Me
